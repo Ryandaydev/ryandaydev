@@ -1,8 +1,7 @@
 ### Hi there 👋
 This is the github for Ryan Day.
 
-- 🔭 My work here is generally about Python, Data Science and APIs..especially if there is a connection to sports analytics and fanatasy sports :football: :soccer:.
-- 🌱 I hope you find something here you can use or learn from!
+- 🔭 My work here is generally about Python, Data Science and APIs..especially if there is a connection to sports analytics and fanatasy sports :football: :soccer: 
 
 <!--
 **Ryandaydev/ryandaydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
