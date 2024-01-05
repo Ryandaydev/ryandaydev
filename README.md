@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is the source code home for Ryan Day.
 
-- 🔭 My work here is generally about Python, Data Science and APIs.
+- 🔭 My work here is focused on Python, Data Science and APIs.
 - :football: I generally tie my projects to fantasy sports or sports analytics somehow, because who likes boring data? :soccer: 
 
 <!--
