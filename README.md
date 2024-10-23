@@ -4,7 +4,7 @@ This is the source code home for Ryan Day.
 - 🔭 My work here is focused on Python, Data Science and APIs.
 - :football: I generally tie my side projects to fantasy sports or sports analytics somehow, because who likes boring data? :soccer: 
 
-- 📚 I have a newsletter where I share tips on using APIs with AI and Data Sciwnce: [Signup for my Tip Sheet](https:tips.handsonapibook.com) 📕
+- 📚 I have a newsletter where I share tips on using APIs with AI and Data Science: [Signup for my Tip Sheet](https:tips.handsonapibook.com) 📕
 <!--
 **Ryandaydev/ryandaydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
