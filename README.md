@@ -2,7 +2,9 @@
 This is the source code home for Ryan Day.
 
 - 🔭 My work here is focused on Python, Data Science and APIs.
-- :football: I generally tie my side projects to fantasy sports or sports analytics somehow, because who likes boring data? :soccer: 
+- :football: I generally tie my side projects to fantasy sports or sports analytics somehow, because who likes boring data? :soccer:
+
+- ⚡ I have presenting some tutorials recently, and if you're interested in the sample code from those, I've pinned the repos.
 
 - 📚 I have a newsletter where I share tips on using APIs with AI and Data Science: [Sign up for my Tip Sheet](https://tips.handsonapibook.com) 📕
 <!--
